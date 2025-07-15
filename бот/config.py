@@ -1,11 +1,11 @@
 
 """API токен для работы с тг"""
-TOKEN = "7816677531:AAGMBHtPuNRHRAABISOM7fBqvLZJWgTaq8A"
+TOKEN =""
 
 
 """приведственное сообщение при команде start"""
 HELLO = "привет"
 
-"""сканер"""
+"""URL сайта со сканером (он должен быть на удаленном сервере , чтобы все работало)"""
 
-URL = "https://chic-truffle-ee7948.netlify.app/"
+URL =""
